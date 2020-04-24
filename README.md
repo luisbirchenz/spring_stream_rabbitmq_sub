@@ -10,7 +10,7 @@ under the input exchange is created, and there we can publish messages by follow
 
 After publishing it, you should be able to see this message in the IDE console where this application is running.
 
-In the other project I'm going to do the publisher.
+This project should be tested with the [publisher](https://github.com/luisbirchenz/spring_stream_rabbitmq_pub).
 
 
 
